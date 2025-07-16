@@ -33,7 +33,7 @@ python desafio.py
 
 ## Autor
 
-Projeto desenvolvido por [Eduardo Carvalho - Desafio bootcap DIO].
+Projeto desenvolvido por [Eduardo Carvalho - Desafio bootcamp DIO].
 
 ## Licença
 
